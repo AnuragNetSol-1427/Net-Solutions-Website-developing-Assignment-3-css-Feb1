@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: red;
+    height: 500px;
+}
+.item{
+    background: white;
+    padding: 30px;
+    font-size: 25px;
+    border-radius: 50px;
+}
